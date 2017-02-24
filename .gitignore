@@ -3,3 +3,5 @@ include/
 lib/
 .Python
 pip-selfcheck*
+.ipynb_checkpoints/
+*.tar
